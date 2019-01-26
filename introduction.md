@@ -1,5 +1,5 @@
-# Hi! This is Erica
-
+# Hello! This is Erica
+I'm a year 4 International Journalism student
 * item 1
 * item 2
 * item 3
