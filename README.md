@@ -1,16 +1,11 @@
 # Hello! This is Erica
 
-![](https://www.google.com/logos/doodles/2019/india-republic-day-2019-5067562814537728-2x.png)
+![](https://github.com/ericachinn/jour2106/blob/master/IMG_9550.jpeg?raw=true)
 
-I'm a year 4 International Journalism student.
+I'm a year 4 International Journalism student who likes telling visual stories.
 
-* item 1
-* item 2
-* item 3
+Skills include:
 
-
-
-
-
-
-
+* graphic design
+* simple motion graphics
+* video editing
