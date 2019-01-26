@@ -1,4 +1,4 @@
-# Jour2106
+# Hi! This is Erica
 
 * item 1
 * item 2
