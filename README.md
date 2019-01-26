@@ -11,3 +11,6 @@ Skills include:
 * video editing
 * can-do mentality
 
+Deficiencies:
+* mathematical skills
+* courage to start conversations (so come holla at me :smile:)
