@@ -1,4 +1,4 @@
-# Hello! This is Erica :wink: 
+# Hello! This is Erica :wave: 
 
 ![](https://github.com/ericachinn/jour2106/blob/master/Screen%20Shot%202019-01-26%20at%209.20.00%20PM.png?raw=true)
 
@@ -13,4 +13,4 @@ Skills include:
 
 Deficiencies:
 * mathematical skills
-* courage to start conversations (so come holla at me :smile:)
+* courage to start conversations (so come holla at me :wink:)
