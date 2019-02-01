@@ -4,18 +4,18 @@
 
 I'm a year 4 International Journalism student who likes telling visual stories.
 
-Skills include:
+## Skills include:
 
 * graphic design
 * simple motion graphics
 * video editing
 * can-do mentality
 
-Deficiencies include:
+## Deficiencies include:
 * mathematical skills
 * courage to start conversations (so come holla at me :wink:)
 
-Topics interested:
+## Topics interested:
 * LGBTQ+
 * Gender and sexuality
 * Travel
