@@ -11,6 +11,12 @@ Skills include:
 * video editing
 * can-do mentality
 
-Deficiencies:
+Deficiencies include:
 * mathematical skills
 * courage to start conversations (so come holla at me :wink:)
+
+Topics interested:
+* LGBTQ+
+* Gender and sexuality
+* Travel
+* Culture and subcultures
